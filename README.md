@@ -7,7 +7,7 @@ Time spent: **4** hours spent in total
 
 The following **required** functionality is completed:
 
-1. [ x]  Required: TOPIC
+1. [ x]  Required: !TOPIC!
     -  [ x]  TASK #1
     -  [ x]  TASK #2
     -  [ x]  TASK #3
@@ -28,7 +28,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='PUT LINK TO GIF HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+!!**<img src='PUT LINK TO GIF HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />**!!
 
 
 
