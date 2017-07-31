@@ -1,4 +1,5 @@
-Template to Submitting Assignments
+Template to Submitting Assignments 
+** EDIT THIS TEXT TO COPY THE TEMPLATE AND MAKE CHANGES**
 # Cybersecurity WEEK # - *jennatrunnelle* 
 
 Time spent: **4** hours spent in total 
@@ -28,7 +29,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-!!**<img src='PUT LINK TO GIF HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />**!!
+<img src='PUT LINK TO GIF HERE' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 
